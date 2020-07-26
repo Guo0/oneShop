@@ -1,0 +1,77 @@
+header span img {
+    vertical-align: middle;
+}
+header{
+    border: 1px hidden black;
+    height: 80px;
+}
+a{
+    text-decoration: none;
+}
+ul{
+    list-style-type: none;
+}
+img{
+    vertical-align: middle;
+}
+.ren,.suo{
+    display: block;
+    border: 1px hidden black;
+    width: 250px;
+    height: 40px;
+}
+.ren{
+    background-image: url("img/userHead.png");
+    background-repeat: no-repeat;
+    padding-left:40px;
+    background-position: 0% 50%;
+}
+.suo{
+    background-image: url("img/lock.png");
+    background-repeat: no-repeat;
+    padding-left:40px;
+    background-position: 0% 50%;
+}
+/*
+input:not(:last-child){
+    border: 1px solid black;
+    width: 250px;
+    height: 40px;
+}*/
+h1{
+    color: black;
+    font-size: 13px;
+}
+section{
+    font-size: 13px;
+    color: #a3a3a3;
+    border: 1px hidden black;
+
+
+}
+/*section img{
+   float: left;
+}*/
+section div{
+    border:  1px hidden black;
+    width: 331px;
+    float: left;
+    margin-left: 100px;
+    margin-top: 40px;
+}
+footer{
+    clear: both;
+}
+ul li{
+    display: block;
+    margin-bottom: 15pt;
+}
+footer span{
+    display: block;
+    line-height: 15px;
+    text-align: center;
+}
+
+
+
+
